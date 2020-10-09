@@ -75,3 +75,4 @@ From: TomHarrop/funannotate-singularity:funannotate-deps_1.7.4
 
 %runscript
     exec /usr/local/bin/funannotate "$@"
+    
